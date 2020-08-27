@@ -1,6 +1,9 @@
 div.logo {
   text-align: left;
   font-size: 50px;
+  color: ##e6e600;
+  padding: 20px;
+  background-color: #33cc33;
 }
 
 div.logo img {

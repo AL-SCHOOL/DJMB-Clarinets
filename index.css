@@ -5,3 +5,7 @@ h1 {
 div.logo {
   text-align: center;
 }
+
+div.logo img {
+  float: left;
+}

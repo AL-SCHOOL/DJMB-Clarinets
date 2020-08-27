@@ -5,6 +5,7 @@ header {
 }
 
 div.logo {
+  height: 75px;
   text-align: left;
   font-size: 50px;
   color: #cccc00;

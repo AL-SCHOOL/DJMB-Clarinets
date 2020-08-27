@@ -1,9 +1,4 @@
-p {  
-  color: #cccc00;
-}
-  
 header {
-  text-align: center;
   background-color: #1f7a1f;
   padding: 10px;
 }
@@ -11,6 +6,7 @@ header {
 div.logo {
   text-align: left;
   font-size: 50px;
+  color: #cccc00;
   font-weight: bold;
 }
 
@@ -20,7 +16,6 @@ div.logo img {
 
 aside {
   background-color: #33cc33;
-  color: #000000;
   padding: 50px;
 }
 

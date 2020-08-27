@@ -1,11 +1,3 @@
 div.logo {
   float: center;
 }
-
-div.logo img {
-  float: left;
-}
-
-div.logo h1 {
-  float: right;
-}

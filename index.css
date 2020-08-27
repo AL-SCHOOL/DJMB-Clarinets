@@ -7,9 +7,14 @@ header{
 div.logo {
   text-align: left;
   font-size: 50px;
-  color: #e6e600;
+  color: #999900;
 }
 
 div.logo img {
   float: left;
+}
+
+div.buttons {
+  text-align: center;
+  float: right;
 }

@@ -11,6 +11,7 @@ header {
 div.logo {
   text-align: left;
   font-size: 50px;
+  font-weight: bold;
 }
 
 div.logo img {
@@ -18,7 +19,7 @@ div.logo img {
 }
 
 aside {
-  background-color: #258e25;
+  background-color: #33cc33;
   padding: 50px;
 }
 

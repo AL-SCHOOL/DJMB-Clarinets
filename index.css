@@ -1,3 +1,7 @@
+p {  
+  color: #b3b300;
+}
+  
 header {
   text-align: center;
   background-color: #33cc33;
@@ -7,7 +11,6 @@ header {
 div.logo {
   text-align: left;
   font-size: 50px;
-  color: #b3b300;
 }
 
 div.logo img {

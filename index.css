@@ -1,12 +1,13 @@
 header{
   text-align: center;
+  background-color: #33cc33;
+  padding: 20px;
 }
 
 div.logo {
   text-align: left;
   font-size: 50px;
   color: #e6e600;
-  background-color: #33cc33;
 }
 
 div.logo img {

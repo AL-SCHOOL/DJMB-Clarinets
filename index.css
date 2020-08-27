@@ -1,6 +1,6 @@
 header {
   background-color: #1f7a1f;
-  padding: 5px;
+  padding: 10px;
 }
 
 div.logo {
@@ -16,7 +16,7 @@ div.logo img {
 
 aside {
   background-color: #71da71;
-  padding: 50px;
+  padding: 20px;
 }
 
 div.signup {

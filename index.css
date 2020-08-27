@@ -1,4 +1,4 @@
-header{
+header {
   text-align: center;
   background-color: #33cc33;
   padding: 20px;
@@ -14,7 +14,10 @@ div.logo img {
   float: left;
 }
 
-div.buttons {
+aside {
+  text-align: left;
+}
+
+div.signup {
   text-align: center;
-  float: right;
 }

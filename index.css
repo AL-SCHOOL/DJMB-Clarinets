@@ -1,5 +1,5 @@
 p {  
-  color: #999900;
+  color: #cccc00;
 }
   
 header {
@@ -20,6 +20,7 @@ div.logo img {
 
 aside {
   background-color: #33cc33;
+  color: #000000;
   padding: 50px;
 }
 

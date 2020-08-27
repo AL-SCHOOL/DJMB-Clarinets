@@ -1,0 +1,11 @@
+div.logo {
+  float: center;
+}
+
+div.logo img {
+  float: left;
+}
+
+div.logo txt {
+  float: right;
+}

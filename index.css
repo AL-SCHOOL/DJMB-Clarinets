@@ -6,7 +6,7 @@ header {
 
 div.logo {
   text-align: left;
-  vertical-align: top;
+  top: 15px;
   font-size: 50px;
   color: #cccc00;
   font-weight: bold;

@@ -6,13 +6,6 @@ header {
 
 div.logo {
   text-align: left;
-  color: #cccc00;
-  font-size: 50px;
-  font-weight: bold;
-}
-
-div.logo img {
-  float: left;
 }
 
 aside {

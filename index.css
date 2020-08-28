@@ -5,10 +5,9 @@ header {
 }
 
 div.logo {
-  overflow: auto;
   text-align: left;
   color: #cccc00;
-  font-size: 50px;
+  font-size: 30px;
   font-weight: bold;
 }
 

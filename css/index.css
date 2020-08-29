@@ -8,6 +8,15 @@ div.logo {
   text-align: left;
 }
 
+nav {
+  background-color: #006600;
+  padding: 2px;
+}
+
+div.pages {
+  text-align: left;
+  right: 15px;
+
 aside {
   background-color: #71da71;
   padding: 20px;

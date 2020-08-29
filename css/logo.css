@@ -1,0 +1,20 @@
+ 
+header {
+  background-color: #1f7a1f;
+  padding: 15px;
+  height: auto;
+}
+
+div.logo {
+  text-align: left;
+}
+
+nav {
+  background-color: #006600;
+  padding: 5px;
+}
+
+div.pages {
+  text-align: left;
+}
+  

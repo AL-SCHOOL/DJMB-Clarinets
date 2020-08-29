@@ -1,0 +1,14 @@
+header {
+  background-color: #1f7a1f;
+  padding: 15px;
+  height: auto;
+}
+
+div.logo {
+  text-align: left;
+}
+
+aside {
+  background-color: #71da71;
+  padding: 20px;
+}

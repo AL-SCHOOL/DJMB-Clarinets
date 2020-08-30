@@ -30,7 +30,6 @@ li a {
   color: #cccc00;
   text-align: center;
   padding: 10px;
-  left: 30px;
-  right: 30px;
+  width: 40px;
   text-decoration: none;
 }

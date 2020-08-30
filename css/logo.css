@@ -12,10 +12,26 @@ nav {
   background-color: #006600;
   padding: 5px;
 }
-
-div.pages {
-  text-align: left;
-  margin-left: 5px;
-  margin-right: 5px;
-}
   
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #006600;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #cccc00;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+
+li a:hover {
+  background-color: #004d00;
+}

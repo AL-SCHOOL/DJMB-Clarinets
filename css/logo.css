@@ -29,10 +29,6 @@ li a {
   display: block;
   color: #cccc00;
   text-align: center;
-  padding: 15px;
+  padding: 20px;
   text-decoration: none;
-}
- 
-li a:hover {
-  background-color: #111;
 }

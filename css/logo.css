@@ -29,6 +29,8 @@ li a {
   display: block;
   color: #cccc00;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
+  left: 30px;
+  right: 30px;
   text-decoration: none;
 }

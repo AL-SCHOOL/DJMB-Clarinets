@@ -9,5 +9,7 @@ div.introtext {
 
 div.signup {
   text-align: center;
-  boarder: 5px solid #cccc00;
+  border: 5px solid #cccc00;
+  background-color: #006600;
+  padding: 15px;  
 }

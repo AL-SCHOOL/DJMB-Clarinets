@@ -1,4 +1,8 @@
- header {
+body {
+  background-color: #003300;
+}
+
+header {
   background-color: #1f7a1f;
   padding: 15px;
   height: auto;

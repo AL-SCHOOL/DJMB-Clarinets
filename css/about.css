@@ -3,6 +3,10 @@ aside {
   padding: 20px;
 }
 
+div.title {
+  text-align: center;
+}
+
 div.about {
   text-align: left;
 }

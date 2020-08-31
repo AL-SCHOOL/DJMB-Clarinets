@@ -11,5 +11,6 @@ div.signup {
   text-align: center;
   border: 5px solid #cccc00;
   background-color: #006600;
-  padding: 15px;  
+  padding: 15px;
+  color: #006600;
 }

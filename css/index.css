@@ -9,4 +9,5 @@ div.introtext {
 
 div.signup {
   text-align: center;
+  boarder: 5px solid #cccc00;
 }

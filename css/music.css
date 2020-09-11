@@ -7,9 +7,14 @@ aside {
 .musicbutton {
   border: none;
   background-color: #1f7a1f;
+  padding: 10px;
   color: #cccc00;
   cursor: pointer;
   text-align: center;
+}
+
+.musicbutton:hover {
+  background-color: #003300;
 }
 
 div.music {

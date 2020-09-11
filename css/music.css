@@ -1,6 +1,14 @@
- aside {
+aside {
   background-color: #71da71;
   padding: 20px;
+  text-align: center;
+}
+
+.musicbutton {
+  border: none;
+  background-color: #1f7a1f;
+  color: #cccc00;
+  cursor: pointer;
   text-align: center;
 }
 

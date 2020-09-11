@@ -4,6 +4,6 @@ On the home page there is a form you can fill out so you can help create the web
 
 # Rules
 If you are accepted to edit this website, you must follow by there rules:
-- Destruction
+- **Destruction**
   - Do not purposely damage or destory the website.
   - If there is damages that you can not fix, email another editor that might be able to help.

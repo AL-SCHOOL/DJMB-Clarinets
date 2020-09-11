@@ -4,20 +4,6 @@ aside {
   text-align: center;
 }
 
-.button {
-  border: none;
-  margin: 5px;
-  background-color: #1f7a1f;
-  padding: 10px;
-  color: #cccc00;
-  cursor: pointer;
-  text-align: center;
-}
-
-.button:hover {
-  background-color: #003300;
-}
-
 div.music {
   text-align: center;
 }

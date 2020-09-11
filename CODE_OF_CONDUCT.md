@@ -2,5 +2,5 @@
   - Do not purposely damage or destory the website.
   - If there is damages that you can not fix, email another editor that might be able to help.
   - Do not edit the Code of Conduct file.
-- **Sharing**
+- **Community**
   - You can only share this code to other DJMB clarinet players.

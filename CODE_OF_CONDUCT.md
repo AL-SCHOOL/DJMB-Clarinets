@@ -1,0 +1,3 @@
+- **Destruction**
+  - Do not purposely damage or destory the website.
+  - If there is damages that you can not fix, email another editor that might be able to help.

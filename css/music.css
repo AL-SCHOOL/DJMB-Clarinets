@@ -4,7 +4,7 @@ aside {
   text-align: center;
 }
 
-.musicbutton {
+.button {
   border: none;
   margin: 5px;
   background-color: #1f7a1f;
@@ -14,7 +14,7 @@ aside {
   text-align: center;
 }
 
-.musicbutton:hover {
+.button:hover {
   background-color: #003300;
 }
 

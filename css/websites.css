@@ -4,6 +4,12 @@ aside {
   text-align: center;
 }
 
+div.box {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
 div.websites {
   text-align: left;
 }

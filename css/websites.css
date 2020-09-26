@@ -11,10 +11,10 @@ div.box {
   text-align: center;
   margin-left: 20px;
   margin-right: 20px;
-  width: 40%;
 }
 
 div.boxalign {
+  float: left;
 }
   
 

@@ -19,10 +19,13 @@ div.boxalign {
 
 div.left {
   float: left;
+  text-align: center;
 }
 
 div.right {
   float: right;
+  text-align: center;
+}
 
 div.websites {
   text-align: left;

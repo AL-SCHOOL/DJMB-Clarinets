@@ -19,10 +19,12 @@ div.boxalign {
 
 div.left {
   float: left;
+  width: auto;
 }
 
 div.right {
   float: right;
+  width: auto;
 }
 
 div.websites {

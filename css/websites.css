@@ -15,9 +15,14 @@ div.box {
 }
 
 div.boxalign {
+}
+
+div.left {
   float: left;
 }
-  
+
+div.right {
+  float: right;
 
 div.websites {
   text-align: left;

@@ -9,6 +9,8 @@ div.box {
   padding: 20px;
   border: 5px solid #cccc00;
   text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 div.boxalign {

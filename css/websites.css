@@ -4,16 +4,8 @@ aside {
   text-align: center;
 }
 
-div.box {
-  background-color: #ffff99;
-  padding: 20px;
-  border: 5px solid #cccc00;
-  text-align: center;
-}
-
 div.boxalign {
   background-color: #71da71;
-  height: auto;
 }
 
 div.left {
@@ -22,6 +14,15 @@ div.left {
 
 div.right {
   float: right;
+}
+
+div.box {
+  background-color: #ffff99;
+  padding: 20px;
+  border: 5px solid #cccc00;
+  text-align: center;
+  margin: 10px;
+  width: 50%;
 }
 
 div.websites {

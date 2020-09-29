@@ -1,6 +1,9 @@
 aside {
   background-color: #71da71;
   padding: 20px;
+}
+
+div.title {
   text-align: center;
 }
 

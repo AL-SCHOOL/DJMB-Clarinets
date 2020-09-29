@@ -22,7 +22,8 @@ div.box {
   border: 5px solid #cccc00;
   text-align: center;
   margin: 10px;
-  width: auto 50%;
+  width: auto;
+  width: 50%;
 }
 
 div.websites {
